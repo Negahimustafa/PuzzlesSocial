@@ -1,0 +1,22 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px 24px;
+    background-color: rgb(72, 65, 173);
+}
+
+.navbar #logo {
+    color: white;
+    font-size: 21px;
+}
+
+.navbar__img {
+    height: 35px;
+    border-radius: 10px;
+}
+
+
+.navbar p .cross {
+    font-size: 21px;
+}
